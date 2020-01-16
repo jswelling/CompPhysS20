@@ -10,6 +10,7 @@ import six
 def main():
     print("""
     Hello World, from...
+    and Trevor
     Joel S. Welling
     and pankaj
     and Matthew Zischkau
