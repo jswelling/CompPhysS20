@@ -11,6 +11,7 @@ def main():
     print("""
     Hello World, from...
     Joel S. Welling
+    Shawn Liu
     """)
 
 if __name__ == "__main__":
