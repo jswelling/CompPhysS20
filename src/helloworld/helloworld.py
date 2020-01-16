@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 '''
 Created on Jan 15, 2020
-@author: welling
+i@author: welling
 '''
 
 from __future__ import print_function
@@ -11,11 +11,9 @@ def main():
     print("""
     Hello World, from...
     Joel S. Welling
-<<<<<<< HEAD
     Lawrence Huang
-=======
     Shawn Liu
->>>>>>> 4af9d2e1a9022fb9886fe2dfac272bcf575868ea
+    Kerry Jappe
     """)
 
 if __name__ == "__main__":
