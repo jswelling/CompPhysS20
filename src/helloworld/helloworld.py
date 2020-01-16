@@ -12,7 +12,6 @@ def main():
     Hello World, from...
     Joel S. Welling
     Shawn Liu
->>>>>>> 4af9d2e1a9022fb9886fe2dfac272bcf575868ea
     """)
 
 if __name__ == "__main__":
