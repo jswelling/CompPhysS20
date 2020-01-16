@@ -10,7 +10,7 @@ import six
 def main():
     print("""
     Hello World, from...
-    Joel S. Welling
+    Rosa Kurtz
     """)
 
 if __name__ == "__main__":
