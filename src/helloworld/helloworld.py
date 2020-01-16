@@ -16,11 +16,10 @@ def main():
     Boyan Yin
 
     and pankaj
- 
+    and Matthew Zischkau
     """)
     
 # Peter was here
 
-    # Matthew Zischkau
 if __name__ == "__main__":
     main()
