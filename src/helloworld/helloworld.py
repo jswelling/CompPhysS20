@@ -12,9 +12,7 @@ def main():
     Hello World, from...
     and Trevor
     Joel S. Welling
-
     Boyan Yin
-
     and pankaj
     and Matthew Zischkau
     """)
