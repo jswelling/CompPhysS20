@@ -10,9 +10,15 @@ import six
 def main():
     print("""
     Hello World, from...
+    and Trevor
     Joel S. Welling
+    Boyan Yin (Shirley)
+    and pankaj
+    and Matthew Zischkau
     and Pankaj Bhojwani
     """)
+    
+# Peter was here
 
 if __name__ == "__main__":
     main()
